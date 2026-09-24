@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_60",
+  "display": {
+    "icon": { "id": "minecraft:pufferfish" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_pufferfish_poison_25.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_pufferfish_poison_25.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

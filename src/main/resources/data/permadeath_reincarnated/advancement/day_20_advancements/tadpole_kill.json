@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_20_advancements/player_bad_trip",
+  "display": {
+    "icon": { "id": "minecraft:tadpole_bucket" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.tadpole_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.tadpole_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

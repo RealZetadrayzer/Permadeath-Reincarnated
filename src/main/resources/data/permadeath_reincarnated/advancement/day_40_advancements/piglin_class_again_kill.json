@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_40",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:tcnd" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.piglin_class_again_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.piglin_class_again_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

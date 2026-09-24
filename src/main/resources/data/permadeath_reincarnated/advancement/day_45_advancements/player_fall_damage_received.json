@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_45",
+  "display": {
+    "icon": { "id": "minecraft:glass" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_fall_damage_received.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_fall_damage_received.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

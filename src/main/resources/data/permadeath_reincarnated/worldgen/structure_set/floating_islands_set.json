@@ -1,0 +1,15 @@
+{
+      "structures": [
+    {
+      "structure": "permadeath_reincarnated:floating_islands",
+      "weight": 100
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 19011220,
+    "separation": 2,
+    "spacing": 10,
+    "spread_type": "linear"
+  }
+}

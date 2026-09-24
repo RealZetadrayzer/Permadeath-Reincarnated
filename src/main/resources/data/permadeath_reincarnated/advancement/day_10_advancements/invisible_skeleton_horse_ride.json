@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_10",
+  "display": {
+    "icon": { "id": "minecraft:saddle" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.invisible_skeleton_horse_ride.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.invisible_skeleton_horse_ride.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

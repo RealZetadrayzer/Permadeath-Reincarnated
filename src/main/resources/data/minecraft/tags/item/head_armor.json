@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:leather_helmet",
+    "minecraft:chainmail_helmet",
+    "minecraft:golden_helmet",
+    "minecraft:iron_helmet",
+    "minecraft:diamond_helmet",
+    "minecraft:netherite_helmet",
+    "minecraft:turtle_helmet",
+    "permadeath_reincarnated:netherite_helmet",
+    "permadeath_reincarnated:infernal_netherite_helmet",
+    "permadeath_reincarnated:blue_netherite_helmet",
+    "permadeath_reincarnated:green_netherite_helmet",
+    "permadeath_reincarnated:rose_netherite_helmet",
+    "permadeath_reincarnated:yellow_netherite_helmet"
+  ]
+}

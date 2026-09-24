@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_30_advancements/player_meet_demon",
+  "display": {
+    "icon": { "id": "minecraft:ghast_tear" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.ender_ghast_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.ender_ghast_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

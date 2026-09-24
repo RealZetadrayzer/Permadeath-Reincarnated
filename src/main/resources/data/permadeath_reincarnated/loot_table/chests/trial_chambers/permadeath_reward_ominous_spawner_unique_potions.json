@@ -1,0 +1,177 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "permadeath_wither_rage": 1
+                },
+                "minecraft:potion_contents": {
+                  "custom_color": 4673362,
+                  "custom_effects": [
+                    {
+                      "id": "minecraft:fire_resistance",
+                      "amplifier": 0,
+                      "duration": 12000,
+                      "ambient": false,
+                      "show_particles": true,
+                      "show_icon": true
+                    },
+                    {
+                      "id": "minecraft:strength",
+                      "amplifier": 1,
+                      "duration": 3600,
+                      "ambient": false,
+                      "show_particles": true,
+                      "show_icon": true
+                    },
+                    {
+                      "id": "minecraft:speed",
+                      "amplifier": 1,
+                      "duration": 1200,
+                      "ambient": false,
+                      "show_particles": true,
+                      "show_icon": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "item.permadeath_reincarnated.potion_wither_rage",
+                "italic": false
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "permadeath_reincarnation": 1
+                },
+                "minecraft:potion_contents": {
+                  "custom_color": 8978470,
+                  "custom_effects": [
+                    {
+                      "id": "minecraft:regeneration",
+                      "amplifier": 1,
+                      "duration": 1200,
+                      "ambient": false,
+                      "show_particles": true,
+                      "show_icon": true
+                    },
+                    {
+                      "id": "minecraft:resistance",
+                      "amplifier": 1,
+                      "duration": 600,
+                      "ambient": false,
+                      "show_particles": true,
+                      "show_icon": true
+                    },
+                    {
+                      "id": "minecraft:absorption",
+                      "amplifier": 1,
+                      "duration": 600,
+                      "ambient": false,
+                      "show_particles": true,
+                      "show_icon": true
+                    },
+                    {
+                      "id": "minecraft:saturation",
+                      "amplifier": 0,
+                      "duration": 100,
+                      "ambient": false,
+                      "show_particles": true,
+                      "show_icon": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "item.permadeath_reincarnated.potion_reincarnation",
+                "italic": false
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_data": {
+                  "permadeath_shock": 1
+                },
+                "minecraft:potion_contents": {
+                  "custom_color": 11413993,
+                  "custom_effects": [
+                    {
+                      "id": "minecraft:invisibility",
+                      "amplifier": 0,
+                      "duration": 12000,
+                      "ambient": false,
+                      "show_particles": true,
+                      "show_icon": true
+                    },
+                    {
+                      "id": "minecraft:night_vision",
+                      "amplifier": 0,
+                      "duration": 12000,
+                      "ambient": false,
+                      "show_particles": true,
+                      "show_icon": true
+                    },
+                    {
+                      "id": "minecraft:slow_falling",
+                      "amplifier": 0,
+                      "duration": 9600,
+                      "ambient": false,
+                      "show_particles": true,
+                      "show_icon": true
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "item.permadeath_reincarnated.potion_shock",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 1.0
+      }
+    }
+  ],
+  "random_sequence": "permadeath_reincarnated:chests/trial_chambers/permadeath_reward_ominous_unique_potions"
+}

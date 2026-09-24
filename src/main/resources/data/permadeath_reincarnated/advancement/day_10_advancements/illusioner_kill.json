@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_10",
+  "display": {
+    "icon": { "id": "minecraft:ominous_bottle" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.illusioner_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.illusioner_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

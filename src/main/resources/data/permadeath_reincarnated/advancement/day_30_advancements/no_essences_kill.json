@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_30",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:ghast_essence" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.no_essences_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.no_essences_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

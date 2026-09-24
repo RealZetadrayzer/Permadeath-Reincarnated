@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_15_advancements/wither_skeleton_lethal_guards_kill",
+  "display": {
+    "icon": { "id": "minecraft:nether_star" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.wither_kill_new_beginning.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.wither_kill_new_beginning.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

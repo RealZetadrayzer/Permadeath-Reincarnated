@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_50_advancements/player_enter_beginning_portal",
+  "display": {
+    "icon": { "id": "minecraft:wither_skeleton_skull" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.wither_kill_new_beginning_again.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.wither_kill_new_beginning_again.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

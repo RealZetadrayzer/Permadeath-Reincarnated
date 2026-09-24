@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_30",
+  "display": {
+    "icon": { "id": "minecraft:dragon_egg" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_meet_demon.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_meet_demon.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_40",
+  "display": {
+    "icon": { "id": "minecraft:trident" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_get_blindness_under_rain.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_get_blindness_under_rain.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_50",
+  "display": {
+    "icon": { "id": "minecraft:wither_skeleton_skull" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.wither_emperor_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.wither_emperor_kill.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

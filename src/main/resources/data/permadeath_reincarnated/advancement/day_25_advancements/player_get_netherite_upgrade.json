@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_25_advancements/player_get_all_essences",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:netherite_upgrade" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_get_netherite_upgrade.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_get_netherite_upgrade.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

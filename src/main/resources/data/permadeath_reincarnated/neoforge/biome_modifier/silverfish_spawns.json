@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+
+  "biomes": "#permadeath_reincarnated:is_allowed_overworld",
+
+  "spawners": [
+    {
+      "type": "permadeath_reincarnated:wild_silverfish",
+      "weight": 10,
+      "minCount": 4,
+      "maxCount": 4
+    }
+  ]
+}

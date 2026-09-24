@@ -1,0 +1,15 @@
+{
+    "name": "permadeath_reincarnated:beginning/initial_ytic_pool",
+    "fallback": "minecraft:empty",
+    "elements": [
+    {
+        "weight": 1,
+        "element": {
+            "element_type": "single_pool_element",
+            "location": "permadeath_reincarnated:initial_ytic",
+            "projection":"rigid",
+            "processors": "empty"
+        }
+    }
+]
+}

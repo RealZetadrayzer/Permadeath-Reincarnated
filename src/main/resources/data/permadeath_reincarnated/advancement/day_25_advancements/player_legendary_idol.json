@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_25_advancements/piglin_commander_kill",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:tcnd" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_legendary_idol.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_legendary_idol.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

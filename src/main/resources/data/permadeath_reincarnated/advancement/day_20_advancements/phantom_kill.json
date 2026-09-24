@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_20",
+  "display": {
+    "icon": { "id": "minecraft:phantom_membrane" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.phantom_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.phantom_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

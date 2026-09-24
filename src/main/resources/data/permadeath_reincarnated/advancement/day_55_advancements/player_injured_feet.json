@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_55",
+  "display": {
+    "icon": { "id": "minecraft:feather" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_injured_feet.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_injured_feet.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

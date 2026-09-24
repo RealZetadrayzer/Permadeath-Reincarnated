@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_10_advancements/zombie_horse_jockey_kill",
+  "display": {
+    "icon": { "id": "minecraft:zombie_head" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.armand_zombie_horse_ride.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.armand_zombie_horse_ride.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

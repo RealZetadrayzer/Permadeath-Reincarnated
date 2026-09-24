@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_55",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:immortality_essence" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_get_immortality_essence.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_get_immortality_essence.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

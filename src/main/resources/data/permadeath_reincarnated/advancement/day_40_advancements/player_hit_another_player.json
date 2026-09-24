@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_40",
+  "display": {
+    "icon": { "id": "minecraft:red_bed" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_hit_another_player.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_hit_another_player.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

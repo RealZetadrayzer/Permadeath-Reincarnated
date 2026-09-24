@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_25_advancements/player_armor_breacher_squared",
+  "display": {
+    "icon": { "id": "minecraft:diamond_chestplate" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_armor_breacher_cubed.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_armor_breacher_cubed.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

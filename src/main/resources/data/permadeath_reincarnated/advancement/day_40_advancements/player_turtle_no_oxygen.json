@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_40_advancements/player_find_protector_axolotl",
+  "display": {
+    "icon": { "id": "minecraft:turtle_scute" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_turtle_no_oxygen.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_turtle_no_oxygen.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

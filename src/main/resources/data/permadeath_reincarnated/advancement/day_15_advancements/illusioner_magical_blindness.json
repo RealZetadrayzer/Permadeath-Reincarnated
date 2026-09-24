@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_15",
+  "display": {
+    "icon": { "id": "minecraft:bow" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.illusioner_magical_blindness.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.illusioner_magical_blindness.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_60",
+  "display": {
+    "icon": { "id": "minecraft:enchanted_golden_apple" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_consume_extra_hyper_golden_apple.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_consume_extra_hyper_golden_apple.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

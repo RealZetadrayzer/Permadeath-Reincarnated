@@ -1,0 +1,19 @@
+{
+    "biomes": "permadeath_reincarnated:the_beginning",
+    "spawn_overrides": {},
+    "type": "minecraft:jigsaw",
+    "start_pool": "permadeath_reincarnated:beginning/floating_islands_pool",
+    "size": 4,
+    "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": 250
+    },
+    "max_inclusive": {
+      "absolute": 250
+    }
+  },
+    "max_distance_from_center": 1,
+    "use_expansion_hack": false,
+    "step": "surface_structures"
+}

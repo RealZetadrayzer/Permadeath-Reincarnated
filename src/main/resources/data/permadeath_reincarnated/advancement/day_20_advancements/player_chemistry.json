@@ -1,0 +1,17 @@
+{
+  "parent": "permadeath_reincarnated:root_day_20",
+  "display": {
+    "icon": { "id": "minecraft:brewing_stand" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_chemistry.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_chemistry.description"
+    },
+    "frame": "challenge",
+    "hidden": true
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

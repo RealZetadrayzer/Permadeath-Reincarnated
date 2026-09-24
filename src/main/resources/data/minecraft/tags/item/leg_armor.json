@@ -1,0 +1,16 @@
+{
+  "values": [
+    "minecraft:leather_leggings",
+    "minecraft:chainmail_leggings",
+    "minecraft:golden_leggings",
+    "minecraft:iron_leggings",
+    "minecraft:diamond_leggings",
+    "minecraft:netherite_leggings",
+    "permadeath_reincarnated:netherite_leggings",
+    "permadeath_reincarnated:infernal_netherite_leggings",
+    "permadeath_reincarnated:blue_netherite_leggings",
+    "permadeath_reincarnated:green_netherite_leggings",
+    "permadeath_reincarnated:rose_netherite_leggings",
+    "permadeath_reincarnated:yellow_netherite_leggings"
+  ]
+}

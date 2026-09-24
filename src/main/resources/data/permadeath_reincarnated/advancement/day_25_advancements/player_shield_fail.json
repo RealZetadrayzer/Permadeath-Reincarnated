@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_25",
+  "display": {
+    "icon": { "id": "minecraft:shield" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_shield_fail.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_shield_fail.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

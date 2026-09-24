@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_25_advancements/player_skull_breaker",
+  "display": {
+    "icon": { "id": "minecraft:skeleton_skull" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_skull_breaker_squared.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_skull_breaker_squared.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

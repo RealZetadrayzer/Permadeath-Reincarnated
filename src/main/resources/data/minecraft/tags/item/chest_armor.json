@@ -1,0 +1,16 @@
+{
+  "values": [
+    "minecraft:leather_chestplate",
+    "minecraft:chainmail_chestplate",
+    "minecraft:golden_chestplate",
+    "minecraft:iron_chestplate",
+    "minecraft:diamond_chestplate",
+    "minecraft:netherite_chestplate",
+    "permadeath_reincarnated:netherite_chestplate",
+    "permadeath_reincarnated:infernal_netherite_chestplate",
+    "permadeath_reincarnated:blue_netherite_chestplate",
+    "permadeath_reincarnated:green_netherite_chestplate",
+    "permadeath_reincarnated:rose_netherite_chestplate",
+    "permadeath_reincarnated:yellow_netherite_chestplate"
+  ]
+}

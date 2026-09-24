@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_45",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:enhanced_tcnd" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_dark_idol.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_dark_idol.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

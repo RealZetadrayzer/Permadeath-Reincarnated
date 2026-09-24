@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+
+  "biomes": "#permadeath_reincarnated:is_allowed_overworld",
+
+  "spawners": [
+    {
+      "type": "permadeath_reincarnated:wild_snow_golem",
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2
+    }
+  ]
+}

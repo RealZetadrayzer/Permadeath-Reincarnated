@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_15",
+  "display": {
+    "icon": { "id": "minecraft:rotten_flesh" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.zombie_rider_armed_infection_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.zombie_rider_armed_infection_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

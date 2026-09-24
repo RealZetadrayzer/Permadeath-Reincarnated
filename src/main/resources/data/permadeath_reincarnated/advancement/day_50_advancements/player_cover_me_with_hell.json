@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_50_advancements/player_get_infernal_netherite",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:infernal_netherite_chestplate" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_cover_me_with_hell.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_cover_me_with_hell.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

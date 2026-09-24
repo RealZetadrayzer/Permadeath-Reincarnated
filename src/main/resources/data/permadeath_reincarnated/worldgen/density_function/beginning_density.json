@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:shifted_noise",
+  "noise": "minecraft:vegetation",
+  "xz_scale": 0.75,
+  "y_scale": 0.75,
+  "shift_x": 1,
+  "shift_y": 0,
+  "shift_z": 0
+}

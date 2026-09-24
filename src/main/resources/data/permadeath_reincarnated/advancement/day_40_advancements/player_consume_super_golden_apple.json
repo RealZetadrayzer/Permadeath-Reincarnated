@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_40",
+  "display": {
+    "icon": { "id": "minecraft:golden_apple" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_consume_super_golden_apple.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_consume_super_golden_apple.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

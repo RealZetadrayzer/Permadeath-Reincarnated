@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_55",
+  "display": {
+    "icon": { "id": "minecraft:black_shulker_box" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.void_shock_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.void_shock_kill.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

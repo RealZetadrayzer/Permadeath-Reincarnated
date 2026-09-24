@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_55",
+  "display": {
+    "icon": { "id": "minecraft:conduit" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_conduit_failed.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_conduit_failed.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

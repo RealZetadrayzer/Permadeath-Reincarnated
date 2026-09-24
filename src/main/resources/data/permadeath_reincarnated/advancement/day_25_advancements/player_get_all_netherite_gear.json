@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_25_advancements/player_get_netherite_upgrade",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:netherite_chestplate" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_get_all_netherite_gear.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_get_all_netherite_gear.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

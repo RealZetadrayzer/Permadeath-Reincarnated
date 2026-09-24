@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_45",
+  "display": {
+    "icon": { "id": "minecraft:brewing_stand" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_beg_res_potion_consumed.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_beg_res_potion_consumed.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_40",
+  "display": {
+    "icon": { "id": "minecraft:shulker_box" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.shulker_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.shulker_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

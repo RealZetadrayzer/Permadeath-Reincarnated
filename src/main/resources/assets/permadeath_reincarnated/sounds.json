@@ -1,0 +1,12 @@
+{
+  "parrot_bomb_planted": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "permadeath_reincarnated:bomb_parrot/parrot_bomb_planted",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "sound.permadeath_reincarnated.subtitle.parrot_bomb_planted"
+  }
+}

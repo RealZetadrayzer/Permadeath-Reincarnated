@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_55",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:netherite_sword" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_imperial_strength.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_imperial_strength.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

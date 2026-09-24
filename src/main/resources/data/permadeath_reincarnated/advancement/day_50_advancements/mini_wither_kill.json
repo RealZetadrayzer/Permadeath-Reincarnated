@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_50_advancements/player_enter_beginning_portal",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:wither_essence" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.mini_wither_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.mini_wither_kill.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

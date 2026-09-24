@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_30_advancements/player_survive_demon",
+  "display": {
+    "icon": { "id": "minecraft:poisonous_potato" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_plague_shulker_damage_received.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_plague_shulker_damage_received.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

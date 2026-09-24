@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_30",
+  "display": {
+    "icon": { "id": "minecraft:skeleton_skull" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.class_skeleton_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.class_skeleton_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

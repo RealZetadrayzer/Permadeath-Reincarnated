@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_50",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:netherite_sword" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_get_netherite_sword.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_get_netherite_sword.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

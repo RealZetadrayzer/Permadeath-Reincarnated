@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "permadeath_reincarnated:item/netherite_pickaxe"
+  }
+}

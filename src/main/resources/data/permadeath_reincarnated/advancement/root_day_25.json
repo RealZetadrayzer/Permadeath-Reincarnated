@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:netherite_sword" },
+    "title": { "translate": "advancement.permadeath_reincarnated.root_day_25.title" },
+    "description": { "translate": "advancement.permadeath_reincarnated.root_day_25.description" },
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  },
+  "requirements": [["grant"]]
+}

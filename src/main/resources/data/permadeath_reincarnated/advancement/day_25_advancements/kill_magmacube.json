@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_25",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:magma_cube_essence" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.kill_magmacube.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.kill_magmacube.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

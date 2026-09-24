@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_55",
+  "display": {
+    "icon": { "id": "minecraft:gunpowder" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_lack_of_gunpowder.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_lack_of_gunpowder.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

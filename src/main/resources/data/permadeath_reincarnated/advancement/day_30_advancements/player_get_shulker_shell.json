@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_30_advancements/player_survive_demon",
+  "display": {
+    "icon": { "id": "minecraft:shulker_shell" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_get_shulker_shell.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_get_shulker_shell.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

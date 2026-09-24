@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_25",
+  "display": {
+    "icon": { "id": "minecraft:golden_sword" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.piglin_class_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.piglin_class_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

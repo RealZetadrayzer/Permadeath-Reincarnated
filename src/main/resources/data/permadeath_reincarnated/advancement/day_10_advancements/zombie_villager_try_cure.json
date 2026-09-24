@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_10",
+  "display": {
+    "icon": { "id": "minecraft:golden_apple" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.zombie_villager_try_cure.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.zombie_villager_try_cure.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

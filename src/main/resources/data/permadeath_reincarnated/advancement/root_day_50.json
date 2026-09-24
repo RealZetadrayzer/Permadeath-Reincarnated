@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:totem_of_undying" },
+    "title": { "translate": "advancement.permadeath_reincarnated.root_day_50.title" },
+    "description": { "translate": "advancement.permadeath_reincarnated.root_day_50.description" },
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  },
+  "requirements": [["grant"]]
+}

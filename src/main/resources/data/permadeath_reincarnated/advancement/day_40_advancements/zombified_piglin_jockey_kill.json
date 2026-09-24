@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_40",
+  "display": {
+    "icon": { "id": "minecraft:golden_sword" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.zombified_piglin_jockey_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.zombified_piglin_jockey_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

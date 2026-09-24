@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_20_advancements/player_bad_trip",
+  "display": {
+    "icon": { "id": "minecraft:ochre_froglight" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_sticky_frog.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_sticky_frog.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_40",
+  "display": {
+    "icon": { "id": "minecraft:heart_of_the_sea" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_find_protector_axolotl.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_find_protector_axolotl.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

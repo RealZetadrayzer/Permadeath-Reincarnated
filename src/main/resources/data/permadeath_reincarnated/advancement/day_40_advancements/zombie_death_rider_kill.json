@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_40_advancements/zombie_horse_again_kill",
+  "display": {
+    "icon": { "id": "minecraft:zombie_head" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.zombie_death_rider_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.zombie_death_rider_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_25_advancements/piglin_class_kill",
+  "display": {
+    "icon": { "id": "minecraft:goat_horn" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.piglin_commander_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.piglin_commander_kill.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+
+  "biomes": "#minecraft:is_overworld",
+
+  "spawners": [
+    {
+      "type": "permadeath_reincarnated:creeper",
+      "weight": 20,
+      "minCount": 2,
+      "maxCount": 4
+    }
+  ]
+}

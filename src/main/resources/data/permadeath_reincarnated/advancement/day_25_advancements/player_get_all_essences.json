@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_25",
+  "display": {
+    "icon": { "id": "minecraft:nether_star" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_get_all_essences.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_get_all_essences.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "permadeath_reincarnated:the_beginning",
+    "generator": {
+        "type": "noise",
+        "settings":"permadeath_reincarnated:the_beginning",
+        "biome_source": {
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "permadeath_reincarnated:the_beginning",
+                    "parameters": {
+                        "continentalness": 0,
+                        "depth": 0,
+                        "erosion": 0,
+                        "humidity": 0,
+                        "offset": 0,
+                        "temperature": 0,
+                        "weirdness": 1
+                    }
+                },
+                {
+                    "biome": "minecraft:the_void",
+                    "parameters": {
+                        "continentalness": 0,
+                        "depth": 0,
+                        "erosion": 0,
+                        "humidity": 0,
+                        "offset": 0,
+                        "temperature": 0,
+                        "weirdness": 1
+                    }
+                }
+            ]
+        }
+    }
+}

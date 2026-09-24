@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_60",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:life_orb" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_craft_life_orb.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_craft_life_orb.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

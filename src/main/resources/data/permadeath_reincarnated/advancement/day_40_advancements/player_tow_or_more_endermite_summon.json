@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_40",
+  "display": {
+    "icon": { "id": "minecraft:ender_pearl" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_tow_or_more_endermite_summon.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_tow_or_more_endermite_summon.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

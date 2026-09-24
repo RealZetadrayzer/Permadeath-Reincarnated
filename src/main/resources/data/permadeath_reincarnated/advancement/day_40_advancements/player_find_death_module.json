@@ -1,0 +1,17 @@
+{
+  "parent": "permadeath_reincarnated:day_40_advancements/shulker_kill",
+  "display": {
+    "icon": { "id": "minecraft:red_shulker_box" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_find_death_module.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_find_death_module.description"
+    },
+    "frame": "goal",
+    "hidden": true
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "permadeath_reincarnated:wither_essence"
+  },
+  "base": {
+    "item": "permadeath_reincarnated:netherite_helmet"
+  },
+  "result": {
+    "id": "permadeath_reincarnated:infernal_netherite_helmet"
+  },
+  "template": {
+    "item": "permadeath_reincarnated:infernal_netherite_upgrade"
+  }
+}

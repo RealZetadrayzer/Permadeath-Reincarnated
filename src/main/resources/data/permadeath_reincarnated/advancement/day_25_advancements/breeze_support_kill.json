@@ -1,0 +1,17 @@
+{
+  "parent": "permadeath_reincarnated:root_day_25",
+  "display": {
+    "icon": { "id": "minecraft:wind_charge" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.breeze_support_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.breeze_support_kill.description"
+    },
+    "frame": "challenge",
+    "hidden": true
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

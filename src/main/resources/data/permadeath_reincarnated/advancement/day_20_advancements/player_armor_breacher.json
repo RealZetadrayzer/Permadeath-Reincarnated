@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_20_advancements/player_guardian_allay",
+  "display": {
+    "icon": { "id": "minecraft:mace" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_armor_breacher.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_armor_breacher.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

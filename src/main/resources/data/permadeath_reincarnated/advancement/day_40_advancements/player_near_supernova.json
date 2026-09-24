@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_40_advancements/player_hit_another_player",
+  "display": {
+    "icon": { "id": "minecraft:tnt" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_near_supernova.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_near_supernova.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

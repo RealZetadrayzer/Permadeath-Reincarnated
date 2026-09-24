@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_25",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:slime_essence" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.kill_gigaslime.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.kill_gigaslime.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

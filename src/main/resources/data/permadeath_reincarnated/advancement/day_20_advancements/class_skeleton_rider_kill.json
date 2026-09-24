@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_20",
+  "display": {
+    "icon": { "id": "minecraft:bone" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.class_skeleton_rider_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.class_skeleton_rider_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_50_advancements/player_enter_beginning_portal",
+  "display": {
+    "icon": { "id": "minecraft:potion" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_use_invisibility_potion.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_use_invisibility_potion.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

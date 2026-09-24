@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_40_advancements/player_find_protector_axolotl",
+  "display": {
+    "icon": { "id": "minecraft:sea_lantern" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.depth_dolphin_rider_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.depth_dolphin_rider_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

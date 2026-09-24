@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_60",
+  "display": {
+    "icon": { "id": "minecraft:trident" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_trident_break.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_trident_break.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

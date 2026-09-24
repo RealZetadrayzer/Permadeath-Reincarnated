@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_40_advancements/player_consume_super_golden_apple",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:end_relic" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_get_end_relic.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_get_end_relic.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

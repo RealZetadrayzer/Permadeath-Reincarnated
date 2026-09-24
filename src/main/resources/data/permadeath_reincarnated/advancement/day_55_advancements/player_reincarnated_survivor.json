@@ -1,0 +1,17 @@
+{
+  "parent": "permadeath_reincarnated:root_day_55",
+  "display": {
+    "icon": { "id": "minecraft:totem_of_undying" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_reincarnated_survivor.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_reincarnated_survivor.description"
+    },
+    "frame": "challenge",
+    "hidden": true
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

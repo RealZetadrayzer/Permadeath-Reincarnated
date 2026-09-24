@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_30_advancements/class_skeleton_kill",
+  "display": {
+    "icon": { "id": "minecraft:slime_ball" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.class_bogged_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.class_bogged_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

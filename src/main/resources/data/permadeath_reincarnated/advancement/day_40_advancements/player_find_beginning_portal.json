@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_40_advancements/ultra_reincarnated_wither_kill",
+  "display": {
+    "icon": { "id": "minecraft:beacon" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_find_beginning_portal.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_find_beginning_portal.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

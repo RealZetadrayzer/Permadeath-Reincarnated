@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_10",
+  "display": {
+    "icon": { "id": "minecraft:rotten_flesh" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.zombie_horse_jockey_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.zombie_horse_jockey_kill.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

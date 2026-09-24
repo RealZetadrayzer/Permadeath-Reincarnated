@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_50",
+  "display": {
+    "icon": { "id": "minecraft:zombie_head" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.giant_zombie_kill.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.giant_zombie_kill.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

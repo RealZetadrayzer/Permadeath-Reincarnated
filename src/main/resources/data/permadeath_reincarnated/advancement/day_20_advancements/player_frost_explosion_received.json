@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:day_20_advancements/class_skeleton_rider_kill",
+  "display": {
+    "icon": { "id": "minecraft:ice" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_frost_explosion_received.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_frost_explosion_received.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}

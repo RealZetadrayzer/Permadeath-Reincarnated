@@ -1,0 +1,16 @@
+{
+  "parent": "permadeath_reincarnated:root_day_55",
+  "display": {
+    "icon": { "id": "permadeath_reincarnated:end_orb" },
+    "title": {
+      "translate": "advancement.permadeath_reincarnated.player_get_end_orb.title"
+    },
+    "description": {
+      "translate": "advancement.permadeath_reincarnated.player_get_end_orb.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "grant": { "trigger": "minecraft:impossible" }
+  }
+}
